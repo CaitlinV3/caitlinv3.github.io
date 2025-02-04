@@ -78,12 +78,6 @@ params:
     - name: github
       title: View Source on Github
       url: "https://github.com/caitlinv3"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/caitlinv3"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/caitlin_v3"
     - name: LinkedIn
       title: Connect on LinkedIn
       url: "https://linkedin.com/in/caitlinbuckshaw"
